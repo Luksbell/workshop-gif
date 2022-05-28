@@ -1,2 +1,2 @@
-# workshop-gif
+# workshop-git
 Primeiros passos com git
